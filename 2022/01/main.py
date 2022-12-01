@@ -1,7 +1,7 @@
 import heapq
 
 
-with open("C:/Users/Robert/Desktop/elf.txt", 'r') as f:
+with open("elf.txt", 'r') as f:
     elfs = f.read().splitlines()
 
 tab = []
